@@ -13,4 +13,8 @@ public class TestApplication {
 	public static void kkkk(String[] args) {
 		//SpringApplication.run(TestApplication.class, args);
 	}
+	
+	public static void ooooo(String[] args) {
+		//SpringApplication.run(TestApplication.class, args);
+	}
 }
