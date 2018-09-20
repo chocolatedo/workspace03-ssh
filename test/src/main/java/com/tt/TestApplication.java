@@ -17,4 +17,8 @@ public class TestApplication {
 	public static void ooooo(String[] args) {
 		//SpringApplication.run(TestApplication.class, args);
 	}
+	
+	public static void qqqq(String[] args) {
+		//SpringApplication.run(TestApplication.class, args);
+	}
 }
